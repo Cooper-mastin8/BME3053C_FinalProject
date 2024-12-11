@@ -10,3 +10,6 @@ Steps to run Code
 4. Choose dimensionality and the amount of clusters for the umap and kmean analysis. Run this section of the code to identify clusters.
 
 5. Choose target variable for decision tree analysis. In the code's current state, fast food consumption is targeted in ranges of low, medium, and high levels of consumption based on the percentage of a data point consuming it.
+
+Youtube Link
+https://youtu.be/OW2ED6N0qgc
